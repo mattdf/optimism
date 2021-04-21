@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.13
+
+### Patch Changes
+
+- c7bc0ce: Correctly formatted error object to log exceptions
+- Updated dependencies [c75a0fc]
+  - @eth-optimism/contracts@0.2.6
+
 ## 0.1.12
 
 ### Patch Changes
